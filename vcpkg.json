@@ -1,0 +1,13 @@
+{
+    "name": "luatest",
+    "version-string": "1.0.0",
+    "dependencies": [
+        {
+            "name": "lua",
+            "features": [
+                "cpp"
+              ]
+
+        }
+    ]
+}
